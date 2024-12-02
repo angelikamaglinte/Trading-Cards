@@ -1,0 +1,16 @@
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\bin\Debug\net8.0-windows\Assignment3-TradingCards.exe
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\bin\Debug\net8.0-windows\Assignment3-TradingCards.deps.json
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\bin\Debug\net8.0-windows\Assignment3-TradingCards.runtimeconfig.json
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\bin\Debug\net8.0-windows\Assignment3-TradingCards.dll
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\bin\Debug\net8.0-windows\Assignment3-TradingCards.pdb
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3_TradingCards.TradingCards.resources
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.csproj.GenerateResource.cache
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.AssemblyInfoInputs.cache
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.AssemblyInfo.cs
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.csproj.CoreCompileInputs.cache
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.dll
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\refint\Assignment3-TradingCards.dll
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.pdb
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\Assignment3-TradingCards.genruntimeconfig.cache
+C:\SODV2101 - Rapid Application Development\Assignments\Assignment3-TradingCards\Assignment3-TradingCards\obj\Debug\net8.0-windows\ref\Assignment3-TradingCards.dll
